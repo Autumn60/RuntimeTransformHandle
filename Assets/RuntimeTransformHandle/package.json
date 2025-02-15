@@ -1,0 +1,11 @@
+{
+    "name": "com.autumn60.runtime-transform-handle",
+    "version": "0.1.0",
+    "displayName": "RuntimeTransformHandle",
+    "description": "",
+    "unity": "2021.1",
+    "dependencies": {
+    },
+    "keywords": [
+    ]
+}
